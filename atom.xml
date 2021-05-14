@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xin0109.github.io</id>
     <title>Hey friends</title>
-    <updated>2021-05-14T16:30:24.246Z</updated>
+    <updated>2021-05-14T16:57:21.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xin0109.github.io"/>
     <link rel="self" href="https://xin0109.github.io/atom.xml"/>
@@ -11,23 +11,18 @@
     <icon>https://xin0109.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hey friends</rights>
     <entry>
-        <title type="html"><![CDATA[bad]]></title>
-        <id>https://xin0109.github.io/post/bad/</id>
-        <link href="https://xin0109.github.io/post/bad/">
-        </link>
-        <updated>2021-05-14T16:30:06.000Z</updated>
-        <content type="html"><![CDATA[<p>dasd</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[good]]></title>
-        <id>https://xin0109.github.io/post/good/</id>
-        <link href="https://xin0109.github.io/post/good/">
+        <title type="html"><![CDATA[At this site, we hope to...]]></title>
+        <id>https://xin0109.github.io/post/Intro/</id>
+        <link href="https://xin0109.github.io/post/Intro/">
         </link>
         <updated>2021-05-14T16:24:48.000Z</updated>
-        <summary type="html"><![CDATA[<p>dasd</p>
+        <summary type="html"><![CDATA[<p>🤯Share opinions, discuss the burning questions of our era</p>
+<p>✒️I will be uploading essays and writing blogs on a regular basis</p>
+<p>🥳It is <strong>delightful</strong> to have you on board</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>dasd</p>
+        <content type="html"><![CDATA[<p>🤯Share opinions, discuss the burning questions of our era</p>
+<p>✒️I will be uploading essays and writing blogs on a regular basis</p>
+<p>🥳It is <strong>delightful</strong> to have you on board</p>
 <!-- more -->
 ]]></content>
     </entry>
