@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xin0109.github.io</id>
     <title>Hey friends</title>
-    <updated>2021-05-15T08:03:43.059Z</updated>
+    <updated>2021-05-15T08:19:49.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xin0109.github.io"/>
     <link rel="self" href="https://xin0109.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://xin0109.github.io/images/avatar.png</logo>
     <icon>https://xin0109.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hey friends</rights>
+    <entry>
+        <title type="html"><![CDATA[做个人网站这个事...]]></title>
+        <id>https://xin0109.github.io/post/zuo-ge-ren-wang-zhan-zhe-ge-shi/</id>
+        <link href="https://xin0109.github.io/post/zuo-ge-ren-wang-zhan-zhe-ge-shi/">
+        </link>
+        <updated>2021-05-15T08:10:51.000Z</updated>
+        <content type="html"><![CDATA[<p>我已经想做网站很久了，从高中学JAVA开始。<br>
+但是因为当时实在是没空，19年高中毕业后有空了，但又忘记了。<br>
+这回终于把网站搭建起来了，虽然不是我自己写的码吧（github yyds）</p>
+<p>这个网站的初衷就是分享和记录。通过论文，博客或者日记的形式记录我的生活，和大家分享我的经历和意见</p>
+<p>在这里感谢大家前来捧场！<br>
+也希望自己能够持续更新，如果真能坚持下去，之后开始拍视频做VLOG也说不定～</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Equality, Diversity and Inclusion in University]]></title>
         <id>https://xin0109.github.io/post/equality-diversity-and-inclusion-essay/</id>
@@ -30,6 +44,7 @@
 <h2 id="conclusion">Conclusion</h2>
 <p>UM’s approach to enhance collaboration between departments, initiatives taken by Australian universities to promote female academics have impacted EDI significantly in a positive way. And their methods have commonalities. These evidences have suggested that universities must ensure that everyone has equal access to essential information and opportunities, identify underrepresented groups and extra support should also be made available for these groups. At the same time, the importance of behavioral strategies is as critical as physical policies. Due to the differences in personality and experiences, educators might not need a common definition and different perspectives are actually needed to address injustices (Schuelka, et al., 2019). Despite multiple perspectives have been taken into account, the coverage of this essay is still limited. There are simply much more aspects that educators need to consider, especially when dealing with personality traits. For instance, the cognitive diversity theory studies beyond the common identity diversity such as race and gender (ELI Inc., 2020), it creates more layers of complexity in achieving EDI. This might be an indication that universities will never be able to take consideration of all factors. But is that the goal anyways? At this stage, more questions have been raised which are out of the scope of the essay. In fact, all recommendations made in this essay would only be partially effective. Yet as long as universities show consistent commitments to these issues, EDI will continue to improve and these questions will eventually be resolved, not only in classrooms, but also in society.</p>
 <p>Word count: 1511</p>
+<p><a href="https://xinni0109.com/post/edi-in-university-reference">References</a></p>
 ]]></content>
     </entry>
     <entry>
