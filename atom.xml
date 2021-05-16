@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xin0109.github.io</id>
     <title>Hey friends</title>
-    <updated>2021-05-16T14:08:48.999Z</updated>
+    <updated>2021-05-16T15:25:19.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xin0109.github.io"/>
     <link rel="self" href="https://xin0109.github.io/atom.xml"/>
@@ -10,6 +10,57 @@
     <logo>https://xin0109.github.io/images/avatar.png</logo>
     <icon>https://xin0109.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hey friends</rights>
+    <entry>
+        <title type="html"><![CDATA[如何高效地整理引用文献？（Word自带超简单！）]]></title>
+        <id>https://xin0109.github.io/post/ru-he-gao-xiao-di-zheng-li-yin-yong-wen-xian-word-zi-dai-chao-jian-dan/</id>
+        <link href="https://xin0109.github.io/post/ru-he-gao-xiao-di-zheng-li-yin-yong-wen-xian-word-zi-dai-chao-jian-dan/">
+        </link>
+        <updated>2021-05-16T15:23:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="写在前面">写在前面：</h3>
+<p><strong>整理文献就像写论文一样，是一个积累的过程。千万不要把所有文献都攒到最后写完论文了再整理，真的很崩溃！！</strong></p>
+<p><strong>这个方法利用Word自带的引用功能，虽然需要手动输入source的信息，但输入后，它会自动生成intext reference和 bibliography。</strong></p>
+<p><strong>最重要的是，这个方法能强迫你一边写一边引用，用到一个source就直接输入系统。用久了之后甚至很上瘾，很有满足感！！</strong></p>
+<ol>
+<li>
+<p>打开Word - 我用的是英文版，但是word里对应的位置都是一样的！<br>
+<img src="https://xin0109.github.io/post-images/1621144388907.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>然后点到Reference/引用栏<br>
+<img src="https://xin0109.github.io/post-images/1621144494276.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>点击Citation &amp; Bibliography<br>
+<img src="https://xin0109.github.io/post-images/1621144585045.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>在右边我们可以选择引用格式（intext&amp;bibliography），我们学校要求的是Harvard。<br>
+<img src="https://xin0109.github.io/post-images/1621144637314.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>选好格式后我们就可以开始引用啦，点击insert citation，会出现下面这个页面<br>
+<img src="https://xin0109.github.io/post-images/1621144727793.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>我们可以选择你的source的类型，比如说我想引用一本书上的内容，那我就直接填上书的信息，点击确认<br>
+<img src="https://xin0109.github.io/post-images/1621144767931.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>在insert citation旁边，有一个citation的选项，点击这个可以查看我们目前为止所有引用的source<br>
+<img src="https://xin0109.github.io/post-images/1621145051645.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>在你写完论文，把所有引用都加进系统后，你可以点Bibliography，来自动生成你的reference list<br>
+<img src="https://xin0109.github.io/post-images/1621145146513.png" alt="" loading="lazy"><br>
+<img src="https://xin0109.github.io/post-images/1621145162153.png" alt="" loading="lazy"></p>
+</li>
+</ol>
+<p>这样就大功告成啦！！</p>
+<p>我一直是使用Word自带的引用，我也尝试过第三方网站，例如citethisforme。我个人觉得这种网站也没方便到哪去，很多时候它也找不着文献信息，而且还很容易乱。</p>
+<p>直接输入到Word系统里能够更高效的整理这些文献，也不会丢失。当你用习惯了之后甚至会很享受引用的过程（很有做学术研究的感觉！！）</p>
+<p>感谢阅读！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple's practice for professional training: ethics and innovation in action]]></title>
         <id>https://xin0109.github.io/post/apples-practice-for-professional-training-ethics-and-innovation-in-action/</id>
